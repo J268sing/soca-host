@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/soca-host/static/css/main.86da89df.chunk.css",
+    "main.js": "/soca-host/static/js/main.40f73bbb.chunk.js",
+    "main.js.map": "/soca-host/static/js/main.40f73bbb.chunk.js.map",
+    "runtime-main.js": "/soca-host/static/js/runtime-main.7093ac20.js",
+    "runtime-main.js.map": "/soca-host/static/js/runtime-main.7093ac20.js.map",
+    "static/js/2.2b6cd696.chunk.js": "/soca-host/static/js/2.2b6cd696.chunk.js",
+    "static/js/2.2b6cd696.chunk.js.map": "/soca-host/static/js/2.2b6cd696.chunk.js.map",
+    "index.html": "/soca-host/index.html",
+    "precache-manifest.d4a3b342fbd2bb3555147ceac068654a.js": "/soca-host/precache-manifest.d4a3b342fbd2bb3555147ceac068654a.js",
+    "service-worker.js": "/soca-host/service-worker.js",
+    "static/css/main.86da89df.chunk.css.map": "/soca-host/static/css/main.86da89df.chunk.css.map",
+    "static/js/2.2b6cd696.chunk.js.LICENSE.txt": "/soca-host/static/js/2.2b6cd696.chunk.js.LICENSE.txt",
+    "static/media/SOCAlogo.png": "/soca-host/static/media/SOCAlogo.4e11072c.png",
+    "static/media/batball.jpg": "/soca-host/static/media/batball.d2d7aabe.jpg",
+    "static/media/style.scss": "/soca-host/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/dhruv.jpg": "/soca-host/static/media/dhruv.a2fd6288.jpg",
+    "static/media/feature-tile-icon-01.svg": "/soca-host/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/soca-host/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/soca-host/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/soca-host/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/soca-host/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/soca-host/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/soca-host/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/soca-host/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/soca-host/static/media/features-split-image-03.87e4d053.png",
+    "static/media/gagandeepsingh.jpeg": "/soca-host/static/media/gagandeepsingh.f8da54e1.jpeg",
+    "static/media/ground1.jpeg": "/soca-host/static/media/ground1.62dce141.jpeg",
+    "static/media/logo.svg": "/soca-host/static/media/logo.2810a88b.svg",
+    "static/media/sharma.jpg": "/soca-host/static/media/sharma.f9233bbf.jpg",
+    "static/media/sunrisephoto.jpg": "/soca-host/static/media/sunrisephoto.e776a834.jpg",
+    "static/media/video-placeholder.jpg": "/soca-host/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7093ac20.js",
+    "static/js/2.2b6cd696.chunk.js",
+    "static/css/main.86da89df.chunk.css",
+    "static/js/main.40f73bbb.chunk.js"
+  ]
+}
