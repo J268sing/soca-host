@@ -1,9 +1,11 @@
 {
   "name": "open-react-template",
+  "homepage": "https://j268sing.github.io/soca-host",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
+    "gh-pages": "^3.2.3",
     "lodash": "^4.17.21",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
@@ -17,6 +19,8 @@
     "url": "https://github.com/cruip/open-react-template.git"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
