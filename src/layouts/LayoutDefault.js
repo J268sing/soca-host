@@ -7,6 +7,7 @@ const LayoutDefault = ({ children }) => (
     <Header navPosition="center" className="reveal-from-bottom" />
     <main className="site-content">
       {children}
+<p>jashan</p>
     </main>
     <Footer />
   </>
